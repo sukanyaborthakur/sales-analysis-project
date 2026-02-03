@@ -1,10 +1,10 @@
 # sales-analysis-project
 “A Python-based sales analysis project using pandas and matplotlib.”
-# 🧾 Sales Analysis Project
+# Sales Analysis Project
 
 This project performs a comprehensive sales analysis using Python.
 
-## 🔍 Overview
+## Overview
 - Cleans and explores raw sales data
 - Performs normalization using MinMaxScaler
 - Aggregates sales by day, month, state, and customer group
@@ -15,7 +15,7 @@ This project performs a comprehensive sales analysis using Python.
   - Month-over-Month Growth
   - Top States and Groups
 
-## 🧠 Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
