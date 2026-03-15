@@ -1,4 +1,4 @@
-# sales-analysis-project
+# Sales-analysis-project
 “A Python-based sales analysis project using pandas and matplotlib.”
 # Sales Analysis Project
 
